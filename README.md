@@ -1,2 +1,2 @@
-# CS315-Programming Languages Term Project
+# DroneL
 A programming language for drones to use.
